@@ -2,7 +2,8 @@
 <a href="https://github.com/baby-deviloper" target="_blank"><img src="https://img.shields.io/badge/babydeviloper-31A8FF?style=for-the-badge&logo=Dev.to&logoColor=#61DAFB"></a>
 <a href="https://github.com/orgs/Kusitms-28th-HDmedi-B" target="_blank"><img src="https://img.shields.io/badge/HDMedi_B-0CAA41?style=for-the-badge&logo=Dev.to&logoColor=#61DAFB"></a>
 <br/>
-
+<br/>
+### GITHUB STATS📈 <br/>
 ![jaeguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jk6722&show_icons=true&theme=tokyonight)
 
 <!--
