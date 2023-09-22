@@ -6,18 +6,20 @@
 ### TECH STACK🛠️ 
 <div align="flex-start">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=cplusplus&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"> 
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/react-1572B6?style=flat&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/styled_components-1572B6?style=flat&logo=styled-components&logoColor=white">
-<img src="https://img.shields.io/badge/recoil-1572B6?style=flat&logo=recoil&logoColor=white">
-<img src="https://img.shields.io/badge/axios-1572B6?style=flat&logo=axios&logoColor=white">
-<img src="https://img.shields.io/badge/react_query-1572B6?style=flat&logo=react-query&logoColor=white">
+<img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/recoil-3578E5?style=flat&logo=recoil&logoColor=white">
+<img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white">
+<img src="https://img.shields.io/badge/react_query-FF4154?style=flat&logo=react-query&logoColor=white">
 <br>
+<img src="https://img.shields.io/badge/create_react_app-09D3AC?style=flat&logo=Create React App&logoColor=white">
+<img src="https://img.shields.io/badge/vite-646CFF?style=flat&logo=vite&logoColor=white">
 </div>
 
 ### TOOLS🛠️
