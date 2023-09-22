@@ -2,7 +2,7 @@
 <a href="https://github.com/baby-deviloper" target="_blank"><img src="https://img.shields.io/badge/baby_deviloper-31A8FF?style=for-the-badge&logo=Dev.to&logoColor=#61DAFB"></a>
 <a href="https://github.com/orgs/Kusitms-28th-HDmedi-B" target="_blank"><img src="https://img.shields.io/badge/HDMedi_B-0CAA41?style=for-the-badge&logo=Dev.to&logoColor=#61DAFB"></a>
 <br/>
-
+<br>
 ### TECH STACK🛠️ 
 <div align="flex-start">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"> 
@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/create_react_app-09D3AC?style=flat&logo=Create React App&logoColor=white">
 <img src="https://img.shields.io/badge/vite-646CFF?style=flat&logo=vite&logoColor=white">
 </div>
+<br />
 
 ### TOOLS🛠️
 <div align="flex-start">
@@ -30,6 +31,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <br />
 </div>
+<br />
 
 ### GITHUB STATS📈
 ![jaeguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jk6722&show_icons=true&theme=tokyonight)
