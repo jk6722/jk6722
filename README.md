@@ -1,4 +1,4 @@
-<div align="center">
+<div align="flex-start">
   
 ### TEAM👨🏻‍💻
 <a href="https://github.com/baby-deviloper" target="_blank"><img src="https://img.shields.io/badge/baby_deviloper-31A8FF?style=for-the-badge&logo=Dev.to&logoColor=#61DAFB"></a>
@@ -8,7 +8,7 @@
 
 <br>
 
-<div align="center">
+<div align="flex-start">
   
 ### TECH STACK🛠️ 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"> 
@@ -30,7 +30,7 @@
 </div>
 <br />
 
-<div align="center">
+<div align="flex-start">
   
 ### TOOLS🛠️
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
@@ -42,7 +42,7 @@
 </div>
 <br />
 
-<div align="center">
+<div align="flex-start">
 
 ### GITHUB STATS📈
 ![jaeguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jk6722&show_icons=true&theme=tokyonight)
