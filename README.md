@@ -24,8 +24,8 @@
 
 ### Study✏️
 **Algorithm** | https://github.com/jk6722/algorithm-study
-<br>
 
+<br>
 
 <div align="flex-start">
   
