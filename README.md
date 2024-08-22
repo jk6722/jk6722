@@ -23,7 +23,8 @@
 <img src="https://github.com/jk6722/jk6722/assets/97966640/97c9a1a8-47b3-444b-ae6b-8501ddc5037b" width=270 height=270 align="right" />
 
 ### Study✏️
-**Algorithm** | https://github.com/jk6722/algorithm-study
+**Algorithm** | https://github.com/jk6722/algorithm-study <br />
+**CS Tech** | https://github.com/lucky-vicky-developer/get-a-job
 
 <br>
 
